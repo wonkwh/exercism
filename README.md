@@ -1,2 +1,2 @@
 # exercism
-http://exercism.io practice  
+http://exercism.io swift language  practice  
